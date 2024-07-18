@@ -1,6 +1,6 @@
 # Flash Attention Tutorial
 
-<img src="./modular.png" width="1500" height="300">
+<img src="./modular.png" width="1500" height="200">
 
 
 Welcome to the Flash Attention Tutorial repository! This repository provides an in-depth tutorial on the concept of Flash Attention, including high-level intuition, detailed explanation, and practical implementation.
